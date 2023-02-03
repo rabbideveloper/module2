@@ -6,15 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e23cff1-57cb-48f9-99d9-54ad1b863e79" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/break.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/do-while.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreach.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forloop.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/while.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Rabbi_Sheikh.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Rabbi_Sheikh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suparGlobal.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array.php" afterPath="$PROJECT_DIR$/array.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,14 +29,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="array.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+            <state relative-caret-position="242">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
                 <element signature="e#7#47#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="suparGlobal.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/suparGlobal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,6 +80,7 @@
         <option value="$PROJECT_DIR$/break.php" />
         <option value="$PROJECT_DIR$/function.php" />
         <option value="$PROJECT_DIR$/array.php" />
+        <option value="$PROJECT_DIR$/suparGlobal.php" />
       </list>
     </option>
   </component>
@@ -242,15 +246,15 @@
       <workItem from="1675346922369" duration="2166000" />
       <workItem from="1675395374389" duration="4666000" />
       <workItem from="1675412680566" duration="5392000" />
-      <workItem from="1675426582313" duration="12345000" />
+      <workItem from="1675426582313" duration="13783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42789000" />
+    <option name="totallyTimeSpent" value="44227000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -663,11 +667,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/array.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+        <state relative-caret-position="242">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
             <element signature="e#7#47#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suparGlobal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
