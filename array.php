@@ -38,7 +38,7 @@
 
 //var_dump(sort($cars));
 
-$cars = array("Volvo","BMW","Toyota");
+$cars = array("Volvo", "BMW", "Toyota");
 
 sort($cars);
 //
@@ -49,21 +49,7 @@ sort($cars);
 //    echo "\n";
 //}
 
-foreach ($cars as $car) {
-    echo $car;
-    echo "\n";
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// foreach ($cars as $car) {
+//     echo $car;
+//     echo "\n";
+// }
